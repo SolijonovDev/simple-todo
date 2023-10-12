@@ -1,0 +1,18 @@
+*,*::after,*::before{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  font-size: 14px;
+  font-family: Roboto;
+}
+
+ul,li{
+  list-style-type: none;
+}
+
+button{
+  cursor: pointer;
+}
